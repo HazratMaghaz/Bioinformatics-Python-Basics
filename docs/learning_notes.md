@@ -1,21 +1,18 @@
 # Learning Notes
 
-This repository contains beginner-level Python scripts for basic bioinformatics tasks.
+This folder can be used for short notes while learning Python for bioinformatics.
 
-## Main Concepts Practiced
+## Suggested Learning Path
 
-- Taking user input
-- Working with strings
-- Using loops and conditions
-- Writing simple functions
-- Validating DNA/RNA sequences
-- Reading FASTA files
-- Using Biopython for simple NCBI data retrieval
+1. Start with DNA sequence length and nucleotide counting.
+2. Learn GC content calculation.
+3. Practice complement and reverse complement logic.
+4. Move to transcription and translation.
+5. Learn FASTA and FASTQ parsing.
+6. Practice k-mer and codon counting.
+7. Try simple sequence comparison.
+8. Explore Biopython for NCBI data retrieval.
 
-## Future Improvements
+## Important Reminder
 
-- Add command-line arguments using `argparse`
-- Add small test cases
-- Add FASTQ parsing example
-- Add ORF finder example
-- Add simple GenBank parser example
+The scripts in this repository are intentionally simple. They are made for learning the logic clearly, not for replacing production-grade bioinformatics tools.
