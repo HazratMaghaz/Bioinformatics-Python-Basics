@@ -102,20 +102,14 @@ python scripts/fasta_reader_basic.py
 
 ---
 
-## Notes
-
-This repository is designed as a learning portfolio. The scripts are intentionally simple and beginner-friendly rather than over-engineered.
-
----
-
 ## Author
 
 **Hazrat Maghaz**  
-Bioinformatician | Computational Biologist
+Bioinformatician | Computational Biologist | Artifical Intelegence
 
-- Website: https://hazratmaghaz.tech
-- GitHub: https://github.com/HazratMaghaz
-- LinkedIn: https://www.linkedin.com/in/hazrat-maghaz-6967b9374/
+[![Website](https://img.shields.io/badge/Website-hazratmaghaz.tech-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hazratmaghaz.tech)
+[![GitHub](https://img.shields.io/badge/GitHub-HazratMaghaz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HazratMaghaz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hazrat%20Maghaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hazrat-maghaz-6967b9374/)
 
 ---
 
