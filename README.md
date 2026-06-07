@@ -1,3 +1,12 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Bioinformatics](https://img.shields.io/badge/Domain-Bioinformatics-green)
+![Biopython](https://img.shields.io/badge/Library-Biopython-yellowgreen)
+![NCBI](https://img.shields.io/badge/Data-NCBI-orange)
+![Level](https://img.shields.io/badge/Level-Beginner-red)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+
+
 # Bioinformatics Python Basics
 
 A beginner-friendly collection of small Python scripts for learning basic bioinformatics programming.
